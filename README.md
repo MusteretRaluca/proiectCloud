@@ -32,7 +32,7 @@ Pentru aceasta aplicatie am integrat 3 api-uri din lista data(https://github.com
 
 Pentru a face request-uri API-urilor mentionate, se utilizeaza atat operatii asincrone, cat si sincrone de tip ```XMLHttpRequest()```
 
-Cele trei butoane (Token1, Token2, Token3) au rolul de a selecta unul din token-urile oferite de FakeJSON API (cate un cod pentru fiecare utilizator, insa fiecare cod permite doar 1000 de get-uri/post-uri in fiecare zi)
+Cele trei butoane (```Token1```, ```Token2```, ```Token3```) au rolul de a selecta unul din token-urile oferite de FakeJSON API (cate un cod pentru fiecare utilizator, insa fiecare cod permite doar 1000 de get-uri/post-uri in fiecare zi)
 
 Preluarea de date din FakeJSON si Identicon se face in mod asincron (atat operatiunile de tip ```POST``` cat si cele de tip ```GET```)
 
@@ -50,3 +50,17 @@ Exemplu de format json pentru comunicarea cu API-ul FakeJSON:
 	}
 }
 ```
+
+## Flux de date
+
+* Aplicatia prezinta cele trei butoane, ```Token1```, ```Token2```, ```Token3``` (in functie de butonul selectat se alege token-ul pentru datele din FakeJSON)
+
+![img3](Img/Screenshot_3.png)
+
+* Dupa ce se selecteaza unul dintre butoane, se incarca profilurile entitatilor noastre
+
+![img4](Img/Screenshot_4.png)
+
+* Pentru a selecta alt token, pagina trebuie reactualizata (refresh) si se selecteaza alt token
+
+![img5](Img/Screenshot_5.png)
