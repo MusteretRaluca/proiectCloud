@@ -15,11 +15,11 @@ Astfel se creaza profiluri aleatorii la fiecare refresh al paginii.
 
 Exemplu1:
 
-![ex1](/prjCloud/Img/Screenshot_1.png)
+![img1](/Img/Screenshot_1.png)
 
 Exemplu2 (dupa reactualizarea paginii):
 
-![ex2](/prjCloud/Img/Screenshot_2.png)
+![img2](/Img/Screenshot_2.png)
 ## Prezentarea API-urilor utilizate
 
 Pentru aceasta aplicatie am integrat 3 api-uri din lista data(https://github.com/public-apis/public-apis):
