@@ -14,7 +14,7 @@ Fiecare persoana are:
 Astfel se creaza profiluri aleatorii la fiecare refresh al paginii.
 
 Exemplu1:
-![ex1](https://ibb.co/tzhFs15)
+![ex1](https://prnt.sc/sgns7h)
 
 Exemplu2:
 
