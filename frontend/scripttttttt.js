@@ -113,7 +113,7 @@ var container = document.createElement('div');
 container.setAttribute('class', 'container');
 
 app.appendChild(container);
-var token1= "R7HB7czPJ0jnxZU73eHgRg"
+var token1= "Go7bdYXYG0uk0mmWeGvgQw"
 
 var data = JSON.stringify({
   "token": token1,
