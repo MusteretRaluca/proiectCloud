@@ -64,3 +64,8 @@ Exemplu de format json pentru comunicarea cu API-ul FakeJSON:
 * Pentru a selecta alt token, pagina trebuie reactualizata (refresh) si se selecteaza alt token
 
 ![img5](Img/Screenshot_5.png)
+
+## Referinte
+* https://fakejson.com/
+* https://kanye.rest/
+* https://www.kwelo.com/media/identicon/
